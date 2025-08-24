@@ -63,6 +63,3 @@ It was created as part of a **Power BI training workshop**, focusing on data cle
 - Most medals come from the **Summer Olympics**  
 - Peak performance age: **24–30 years**  
 
----
-
-### 📂 Repository Structure
