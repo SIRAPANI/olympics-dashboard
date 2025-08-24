@@ -1,4 +1,5 @@
 # 🏅 Olympic Data Analysis Dashboard (Power BI)
+![Dashboard Screenshot](Olympic%20Data%20Analysis%20Dashboard.jpeg)
 
 ### 📌 Project Overview
 This project analyzes **120 years of Olympic history** to uncover insights about medal distribution, participation trends, and top-performing athletes/countries.  
